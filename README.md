@@ -9,7 +9,7 @@
 برای دسترسی به آخرین نسخه و دریافت لینک مستقیم دانلود، به کانال تلگرام ما بپیوندید:  
 
 <p align="center">
-  <a href="https://t.me/monsmain/178">
+  <a href="https://t.me/monsmain/234">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
@@ -18,7 +18,7 @@
 اگر از Termux استفاده می‌کنید، کافی است دستور زیر را اجرا کنید تا مستقیماً به صفحه پست مورد نظر هدایت شوید و فایل را دریافت کنید:
 
 ```
-am start -a android.intent.action.VIEW -d "tg://resolve?domain=monsmain&post=178"
+am start -a android.intent.action.VIEW -d "tg://resolve?domain=monsmain&post=234"
 ```
 ## ❤️ حمایت از ما
 اگر از این ابزار راضی بودی، می‌توانی با یک دونیت کوچیک از ما حمایت کنی تا بتونیم ابزارهای بیشتری بسازیم:
